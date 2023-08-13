@@ -1,0 +1,51 @@
+
+body {
+    font-family: "Minecraftia.";
+    text-align: center;
+    font-size: 30px;
+}
+
+h1, h2, h3 {
+    font-family: "Minecraftia";
+    text-align: center;
+}
+
+header {
+    background-color: #30302F; 
+    color: #fff; 
+    padding: 10px auto;
+    margin: 20px auto;
+    font-family:"Minecraftia", Arial, sans-serif;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff; 
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+body {
+background-image: url("images/wp9822757.png");
+background-size: cover;
+background-color: #f0f0f0;
+}
+    
+body {
+color: white;
+}
+
+h1, h2, h3, p {
+color: white;
+}
+
+#home {
+color: white;
+}
